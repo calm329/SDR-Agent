@@ -225,10 +225,6 @@ uv run python main.py run "Your test query" --verbose
 
 MIT License - see LICENSE file for details
 
-## 🤝 Contributing
-
-Contributions welcome! Please read CONTRIBUTING.md for guidelines.
-
 ## 💬 Support
 
 For issues and questions:
